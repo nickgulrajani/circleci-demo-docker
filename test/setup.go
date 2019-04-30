@@ -11,7 +11,7 @@ import (
 	"github.com/mattes/migrate/migrate"
 	"github.com/stretchr/testify/require"
 )
-
+// TESTING BY NICK
 // Env provides access to all services used in tests, like the database, our server, and an HTTP client for performing
 // HTTP requests against the test server.
 type Env struct {
